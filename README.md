@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on something cool
-- 🌱 I’m currently studying in COMSATS Univercity
+- 🌱 I’m currently studying in COMSATS University
 - 📫 How to reach me: Through my github profile
 <!--
 - 👯 I’m looking to collaborate on ...
